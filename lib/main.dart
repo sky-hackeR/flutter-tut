@@ -6,12 +6,12 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('I Am Rich'),
+          title: const Text('I Am Rich'),
           centerTitle: true,
           backgroundColor: Colors.blueGrey[900],
         ),
         backgroundColor:  Colors.blueGrey,
-        body: Center(
+        body: const Center(
           child: Image(
             image: 
               AssetImage('images/diamond.png'),
