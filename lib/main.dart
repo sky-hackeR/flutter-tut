@@ -10,7 +10,7 @@ void main() {
           centerTitle: true,
           backgroundColor: Colors.blueGrey[900],
         ),
-        backgroundColor:  Colors.blueGrey,
+        backgroundColor:  Colors.brown,
         body: const Center(
           child: Image(
             image: 
